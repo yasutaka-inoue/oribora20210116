@@ -1,0 +1,24 @@
+.colored{
+    background-color: rgba(206, 17, 38, 0.05);
+}
+
+
+.borderYellow{
+    border-bottom: 2px solid #ffc400;
+    margin-bottom: 3px;
+}
+
+.borderRed{
+    border-bottom: 2px solid #f44336;
+    margin-bottom: 3px;
+}
+
+.PrivateTabIndicator-root-5{
+    display: none;
+}
+.PrivateTabIndicator-colorSecondary-7{
+    display: none;
+}
+.MuiTabs-indicator{
+    display: none;
+}
